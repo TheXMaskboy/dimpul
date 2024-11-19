@@ -1,4 +1,4 @@
-alert("tombir fuki")
+alert("aslamualikum bhai-jan baki sab thik")
 document.addEventListener("DOMContentLoaded", function() {
     // Select all card elements
     const cards = document.querySelectorAll(".card > *");
