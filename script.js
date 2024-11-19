@@ -1,4 +1,4 @@
-alert("aslamualikum bhai-jan baki sab thik")
+alert("aslamualikum bhai-jan/bhan baki sab thik")
 document.addEventListener("DOMContentLoaded", function() {
     // Select all card elements
     const cards = document.querySelectorAll(".card > *");
